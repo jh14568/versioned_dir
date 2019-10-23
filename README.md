@@ -1,15 +1,15 @@
 # Hello Brilliant, Useful GitHub
 
-This is a text file that we are going to add to Git.
-
-We will use Git to record all of the versions of this file, letting us 
-move back and forth through time.
-
-For example, in this first version of the file we will say the cat
-goes mieow.
 
 This is a README.md file that will be used to describe this
 repository on GitHub
+
+This is a much improved introduction that includes a 
+new list of items
+
+* Item 1
+* Item 2
+* Item 3
 
 This is an extra line of text added to the copy 
 of README.md in the cloned repository
